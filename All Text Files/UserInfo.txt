@@ -1,0 +1,13 @@
+barnobiswas@gmail.com,0123,Barno Bissash,01236598756,123654789,200000.00
+12asfakur@gmail.com,12345,Asfakur,128120912,21903i0921,200000.00
+sadid@gmail.com,0123,Md Sadid ,012365478958,123654789,200000.00
+shuprio@gmail.com,suprio,Shuprio Shaha Pranto,01977904702,01977904702,200000.00
+akalam1216@gmail.com,kalam,MD Abul Kalam,01794272292,0123456789,200000.00
+saumik@gmail.com,saumik,Saumik,123456789,321654987,20000
+shafi@gmail.com,shafi,SM Abdulllah Shafi,123456789,1234567890,200000.00
+khalid@gmail.com,khalid,Khalid,123456,123654,200000.00
+saifulislamoni06@gmail.com,123456,Saiful Islam Oni,01794272292,4203837077,200000.00
+kalam@gmail.com,123456,Md Abul Kalam,01720052076,4563215698,00.00
+ayon@gmail.com,ayon,Ashraful Islam Ayon,01842041076,123456789,200000.00
+ayon@gmail.com,ashraful,Ashraful Islam Ayon,01842041076,123456789,200000.00
+pranto@gmail.com,1234,pranto,01770393435,300123123312,200000.00
